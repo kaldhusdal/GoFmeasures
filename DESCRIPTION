@@ -1,0 +1,12 @@
+Package: GoFmeasures
+Title: Goodness-of-Fit Measures
+Version: 0.1.0
+Authors@R: person("Arne",
+                  "Kaldhusdal",
+                  email = "arne.kaldhusdal@gmail.com",
+                  role = c("aut", "cre"))
+Description: Functions for calculating different goodness-of-fit measures. 
+Depends: R (>= 3.4.3)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
